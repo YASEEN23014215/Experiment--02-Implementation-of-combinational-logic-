@@ -52,7 +52,17 @@ A combinational circuit is a circuit in which the output depends on the present 
 
 
 ## Program:
-![image](https://github.com/YASEEN23014215/Experiment--02-Implementation-of-combinational-logic-/assets/149365441/25f3b00c-94bc-49aa-a700-e280870a5cb7)
+module exp2(A,B,C,D,F1);
+input A,B,C,D;
+output F1;
+wire x1,x2,x3,x4,x5;
+assign x1=(~A)&(~B)&(~C)&(~D);
+assign x2=(A)&(~C)&(~D);
+assign x3=(~B)&(C)&(~D);
+assign x4=(~A)&(B)&(C)&(D);
+assign x5=(B)&(~C)&(D);
+assign F1=x1|x2|x3|x4|x5;
+endmodule
 
 ## RTL realization
 ![image](https://github.com/YASEEN23014215/Experiment--02-Implementation-of-combinational-logic-/assets/149365441/b6d8730b-082f-4d32-b9cf-d19d0177f3d8)
