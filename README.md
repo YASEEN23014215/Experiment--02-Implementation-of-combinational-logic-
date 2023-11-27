@@ -1,4 +1,5 @@
-NAME: YASEEN
+NAME: YASEEN.F
+
 Roll no: 23014215
 # Experiment--02-Implementation-of-combinational-logic
 Implementation of combinational logic gates
@@ -59,8 +60,6 @@ A combinational circuit is a circuit in which the output depends on the present 
 ## Output:
 ## TRUTH TABLE:
 ![image](https://github.com/YASEEN23014215/Experiment--02-Implementation-of-combinational-logic-/assets/149365441/f375131b-00de-40b9-ae3f-cea4f7ef234b)
-
-## RTL:
 ## Timing Diagram
 ![image](https://github.com/YASEEN23014215/Experiment--02-Implementation-of-combinational-logic-/assets/149365441/f88b8b36-1718-440c-a20a-2cfa649df358)
 
