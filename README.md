@@ -1,7 +1,7 @@
 NAME: YASEEN.F
 
 Roll no: 23014215
-# Experiment--02-Implementation-of-combinational-logic
+# Experiment 02 Implementation of combinational logic
 Implementation of combinational logic gates
  
 ## AIM:
