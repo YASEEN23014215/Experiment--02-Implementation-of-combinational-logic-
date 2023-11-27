@@ -74,8 +74,6 @@ endmodule
 
 ## RTL realization
 ![image](https://github.com/YASEEN23014215/Experiment--02-Implementation-of-combinational-logic-/assets/149365441/b6d8730b-082f-4d32-b9cf-d19d0177f3d8)
-
-## Output:
 ## TRUTH TABLE:
 ![image](https://github.com/YASEEN23014215/Experiment--02-Implementation-of-combinational-logic-/assets/149365441/f375131b-00de-40b9-ae3f-cea4f7ef234b)
 ## Timing Diagram
